@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d793191-dcb9-4b25-9578-588cd37dcb04" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cars</find>
+      <find>collided=true</find>
+      <find>collided = true</find>
+      <find>drawCarsLeft()</find>
+      <find>Water</find>
+      <find>carLeft</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Frogger" />
+  </component>
+  <component name="ProjectId" id="1S4rH7RMCRF9aMFzPmBNnBLXjf7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Frogger" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shah2789\Google Drive\M319 Comp Sci\Projects\Frogger Project Week 2\resources" />
+      <recent name="C:\Users\shah2789\Google Drive\M319 Comp Sci\WebstormProjects\KeyPress Example with JQuery\resources" />
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="C:\Users\shah2789\Google Drive\M319 Comp Sci\KeyPress Example with JQuery\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shah2789\Google Drive\M319 Comp Sci\Animations With Arrays\resources" />
+      <recent name="C:\Users\rcortez\Desktop\Basic Drawing eXample\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CalculatorProject/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d793191-dcb9-4b25-9578-588cd37dcb04" name="Default" comment="" />
+      <created>1505707704698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505707704698</updated>
+      <workItem from="1505707709167" duration="403000" />
+      <workItem from="1505708171306" duration="45000" />
+      <workItem from="1505840099170" duration="267000" />
+      <workItem from="1505841482986" duration="168000" />
+      <workItem from="1510586271903" duration="1776000" />
+      <workItem from="1510588071506" duration="792000" />
+      <workItem from="1510595970769" duration="14000" />
+      <workItem from="1511190746764" duration="2793000" />
+      <workItem from="1511277769162" duration="108000" />
+      <workItem from="1511278005331" duration="1369000" />
+      <workItem from="1511883320260" duration="1457000" />
+      <workItem from="1511968356993" duration="856000" />
+      <workItem from="1511969582519" duration="1645000" />
+      <workItem from="1512054695237" duration="55000" />
+      <workItem from="1512054770101" duration="2126000" />
+      <workItem from="1512141862179" duration="2129000" />
+      <workItem from="1512249277854" duration="93000" />
+      <workItem from="1512265276632" duration="4927000" />
+      <workItem from="1512359888574" duration="44000" />
+      <workItem from="1512400306669" duration="2881000" />
+      <workItem from="1512425562267" duration="5113000" />
+      <workItem from="1512487130645" duration="1303000" />
+      <workItem from="1512488470861" duration="1043000" />
+      <workItem from="1512517792313" duration="1152000" />
+      <workItem from="1512573193792" duration="2708000" />
+      <workItem from="1513633559117" duration="24000" />
+      <workItem from="1513699508707" duration="53000" />
+      <workItem from="1516477444477" duration="606000" />
+      <workItem from="1516485134902" duration="1303000" />
+      <workItem from="1516487192570" duration="115000" />
+      <workItem from="1516487595300" duration="7000" />
+      <workItem from="1523837630458" duration="1217000" />
+      <workItem from="1524412449095" duration="665000" />
+      <workItem from="1570833619810" duration="612000" />
+      <workItem from="1570836908141" duration="20000" />
+      <workItem from="1572197674023" duration="309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
